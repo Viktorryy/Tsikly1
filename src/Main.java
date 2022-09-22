@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        //Задание 4
+        // Домашнее задание -2
+        //Задание 1
 
-    for(int i = 10; i >= -10; i--) {
-        System.out.println(i);
+    for(int i = 1904; i <= 2096; i = i + 4) {
+        System.out.println(i + " год является високосным");
         }
 
     }
